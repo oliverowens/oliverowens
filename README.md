@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oliverowens
-- 👀 I’m interested in Security, the Cybers, game design and Machine Learning (n00b belt)
+- 👀 I’m interested in Security, the Cybers, game design and Machine Learning
 - 🌱 I’m currently learning py torch, tensors and what the hell hugging face is
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @oliver_owens on twitter
